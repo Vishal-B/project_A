@@ -1,0 +1,266 @@
+2017-04-05 13:20:40,958 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\ant-1.7.0.jar] to extensions classpath
+2017-04-05 13:20:40,960 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\ant-launcher-1.7.0.jar] to extensions classpath
+2017-04-05 13:20:40,960 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\bsh-2.0b4.jar] to extensions classpath
+2017-04-05 13:20:40,960 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\bson-3.0.4.jar] to extensions classpath
+2017-04-05 13:20:40,961 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\commons-codec-1.10.jar] to extensions classpath
+2017-04-05 13:20:40,961 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\commons-collections4-4.1.jar] to extensions classpath
+2017-04-05 13:20:40,961 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\commons-logging-1.2.jar] to extensions classpath
+2017-04-05 13:20:40,961 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\ExcelUtils.jar] to extensions classpath
+2017-04-05 13:20:40,962 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\extentreports-2.41.2.jar] to extensions classpath
+2017-04-05 13:20:40,963 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\freemarker-2.3.23.jar] to extensions classpath
+2017-04-05 13:20:40,963 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\GL-SoapUIExtension.jar] to extensions classpath
+2017-04-05 13:20:40,964 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\hamcrest-core-1.1.jar] to extensions classpath
+2017-04-05 13:20:40,964 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\jcommander-1.48.jar] to extensions classpath
+2017-04-05 13:20:40,964 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\jsoup-1.8.3.jar] to extensions classpath
+2017-04-05 13:20:40,964 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\junit-4.10.jar] to extensions classpath
+2017-04-05 13:20:40,964 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\junit-4.12.jar] to extensions classpath
+2017-04-05 13:20:40,965 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\log4j-1.2.17.jar] to extensions classpath
+2017-04-05 13:20:40,965 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\mongodb-driver-3.0.4.jar] to extensions classpath
+2017-04-05 13:20:40,965 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\mongodb-driver-core-3.0.4.jar] to extensions classpath
+2017-04-05 13:20:40,965 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\mysql-connector-java-3.0.17-ga-bin.jar] to extensions classpath
+2017-04-05 13:20:40,966 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\mysql-connector-java-5.0.8-bin.jar] to extensions classpath
+2017-04-05 13:20:40,966 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\poi-3.16-beta1.jar] to extensions classpath
+2017-04-05 13:20:40,966 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\poi-examples-3.16-beta1.jar] to extensions classpath
+2017-04-05 13:20:40,967 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\poi-excelant-3.16-beta1.jar] to extensions classpath
+2017-04-05 13:20:40,967 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\poi-ooxml-3.16-beta1.jar] to extensions classpath
+2017-04-05 13:20:40,967 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\poi-ooxml-schemas-3.16-beta1.jar] to extensions classpath
+2017-04-05 13:20:40,968 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\poi-scratchpad-3.16-beta1.jar] to extensions classpath
+2017-04-05 13:20:40,968 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\snakeyaml-1.15.jar] to extensions classpath
+2017-04-05 13:20:40,968 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\sqlite-jdbc-3.8.11.1.jar] to extensions classpath
+2017-04-05 13:20:40,969 INFO  [SoapUI] Adding [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\ext\testng-6.9.9.jar] to extensions classpath
+2017-04-05 13:20:41,266 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\vishal.bhopal\soapui-settings.xml]
+2017-04-05 13:20:42,403 INFO  [PluginManager] 0 plugins loaded in 1 ms
+2017-04-05 13:20:42,404 INFO  [DefaultSoapUICore] All plugins loaded
+2017-04-05 13:20:43,886 INFO  [WsdlProject] Loaded project from [file:/C:/Users/vishal.bhopal/Desktop/Pearson-vishal-soapui-project.xml]
+2017-04-05 13:20:43,892 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Pearson API Automation]
+2017-04-05 13:20:43,894 INFO  [SoapUITestCaseRunner] Running Project [Pearson API Automation], runType = SEQUENTIAL
+2017-04-05 13:20:43,910 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [IAM_TokenValidation_validId]
+2017-04-05 13:20:43,919 INFO  [SoapUITestCaseRunner] running step [User_login - Request 1]
+2017-04-05 13:20:57,417 INFO  [SoapUITestCaseRunner] running step [TokenTransfer]
+2017-04-05 13:20:57,475 INFO  [SoapUITestCaseRunner] running step [Token_validation_valid Id]
+2017-04-05 13:20:58,367 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status VALID
+2017-04-05 13:20:58,367 INFO  [SoapUITestCaseRunner] Assertion [true] has status VALID
+2017-04-05 13:20:58,369 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [IAM_TokenValidation_validId], time taken: 14182ms, status: FINISHED
+2017-04-05 13:20:58,399 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [IAM_TokenValidation_invalidId]
+2017-04-05 13:20:58,399 INFO  [SoapUITestCaseRunner] running step [Token_validation_invalidId]
+2017-04-05 13:20:59,799 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status VALID
+2017-04-05 13:20:59,799 INFO  [SoapUITestCaseRunner] Assertion [true] has status VALID
+2017-04-05 13:20:59,799 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [IAM_TokenValidation_invalidId], time taken: 1393ms, status: FINISHED
+2017-04-05 13:20:59,800 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [IAM_TokenValidation_nullId]
+2017-04-05 13:20:59,800 INFO  [SoapUITestCaseRunner] running step [Token_validation - nullId]
+2017-04-05 13:21:00,107 WARN  [HttpClientSupport$SoapUIHttpClient] Authentication error: Unable to respond to any of these challenges: {}
+2017-04-05 13:21:00,115 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status VALID
+2017-04-05 13:21:00,115 INFO  [SoapUITestCaseRunner] Assertion [true] has status VALID
+2017-04-05 13:21:00,116 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [IAM_TokenValidation_nullId], time taken: 305ms, status: FINISHED
+2017-04-05 13:21:00,118 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TokenValidation_specialcharId]
+2017-04-05 13:21:00,118 INFO  [SoapUITestCaseRunner] running step [Token_validation - Token_validation]
+2017-04-05 13:21:00,575 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status FAILED
+2017-04-05 13:21:00,576 ERROR [SoapUITestCaseRunner] ASSERTION FAILED -> Missing token [400] in Response
+2017-04-05 13:21:00,576 INFO  [SoapUITestCaseRunner] Assertion [true] has status VALID
+2017-04-05 13:21:00,576 ERROR [SoapUITestCaseRunner] Token_validation - Token_validation failed, exporting to [C:\Users\vishal.bhopal\.jenkins\workspace\TEST_v\bin\IAM_Sprint3-TokenValidation_specialcharId-Token_validation__Token_validation-0-FAILED.txt]
+2017-04-05 13:21:00,588 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TokenValidation_specialcharId], time taken: 450ms, status: FAILED
+2017-04-05 13:21:00,591 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [IAM_TokenValidation_Idfieldmissing]
+2017-04-05 13:21:00,592 INFO  [SoapUITestCaseRunner] running step [Token_validation - Token_validation]
+2017-04-05 13:21:00,899 WARN  [HttpClientSupport$SoapUIHttpClient] Authentication error: Unable to respond to any of these challenges: {}
+2017-04-05 13:21:00,903 INFO  [SoapUITestCaseRunner] Assertion [Contains] has status VALID
+2017-04-05 13:21:00,903 INFO  [SoapUITestCaseRunner] Assertion [true] has status VALID
+2017-04-05 13:21:00,903 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [IAM_TokenValidation_Idfieldmissing], time taken: 305ms, status: FINISHED
+2017-04-05 13:21:00,904 INFO  [SoapUITestCaseRunner] Project [Pearson API Automation] finished with status [FAILED] in 17005ms
+2017-04-05 13:21:00,907 ERROR [SoapUITestCaseRunner] java.lang.Exception: Contains in [Token_validation - Token_validation] failed;
+[Missing token [400] in Response]
+Status: FAILED
+Time Taken: 450
+Size: 75
+Timestamp: Wed Apr 05 13:21:00 IST 2017
+TestStep: Token_validation - Token_validation
+
+----------------- Messages ------------------------------
+[Contains] Missing token [400] in Response
+
+----------------- Properties ------------------------------
+HTTP Version: HTTP/1.1
+Endpoint: https://consul.gl-poc.com
+Method: POST
+StatusCode: 200
+URL: https://consul.gl-poc.com/iam/v1/tokens?action=validate
+
+---------------- Request ---------------------------
+tokenId: [%$&%&*^*(&)]
+Connection: [Keep-Alive]
+User-Agent: [Apache-HttpClient/4.1.1 (java 1.5)]
+Host: [consul.gl-poc.com]
+Accept-Encoding: [gzip,deflate]
+Content-Length: [0]
+Content-Type: [application/json]
+
+POST https://consul.gl-poc.com/iam/v1/tokens?action=validate HTTP/1.1
+Accept-Encoding: gzip,deflate
+Content-Type: application/json
+tokenId: %$&%&*^*(&)
+Content-Length: 0
+Host: consul.gl-poc.com
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+
+---------------- Response --------------------------
+Server: [nginx/1.10.1]
+Access-Control-Allow-Origin: [*]
+Connection: [keep-alive]
+#status#: [HTTP/1.1 200 ]
+Content-Length: [75]
+Date: [Wed, 05 Apr 2017 07:51:00 GMT]
+Content-Type: [application/json]
+
+{"errors":null,"status":200,"data":{"valid":false,"uid":null,"realm":null}}
+
+2017-04-05 13:21:00,907 ERROR [SoapUI] An error occurred [Contains in [Token_validation - Token_validation] failed;
+[Missing token [400] in Response]
+Status: FAILED
+Time Taken: 450
+Size: 75
+Timestamp: Wed Apr 05 13:21:00 IST 2017
+TestStep: Token_validation - Token_validation
+
+----------------- Messages ------------------------------
+[Contains] Missing token [400] in Response
+
+----------------- Properties ------------------------------
+HTTP Version: HTTP/1.1
+Endpoint: https://consul.gl-poc.com
+Method: POST
+StatusCode: 200
+URL: https://consul.gl-poc.com/iam/v1/tokens?action=validate
+
+---------------- Request ---------------------------
+tokenId: [%$&%&*^*(&)]
+Connection: [Keep-Alive]
+User-Agent: [Apache-HttpClient/4.1.1 (java 1.5)]
+Host: [consul.gl-poc.com]
+Accept-Encoding: [gzip,deflate]
+Content-Length: [0]
+Content-Type: [application/json]
+
+POST https://consul.gl-poc.com/iam/v1/tokens?action=validate HTTP/1.1
+Accept-Encoding: gzip,deflate
+Content-Type: application/json
+tokenId: %$&%&*^*(&)
+Content-Length: 0
+Host: consul.gl-poc.com
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+
+---------------- Response --------------------------
+Server: [nginx/1.10.1]
+Access-Control-Allow-Origin: [*]
+Connection: [keep-alive]
+#status#: [HTTP/1.1 200 ]
+Content-Length: [75]
+Date: [Wed, 05 Apr 2017 07:51:00 GMT]
+Content-Type: [application/json]
+
+{"errors":null,"status":200,"data":{"valid":false,"uid":null,"realm":null}}
+], see error log for details
+2017-04-05 13:21:00,908 ERROR [errorlog] java.lang.Exception: Contains in [Token_validation - Token_validation] failed;
+[Missing token [400] in Response]
+Status: FAILED
+Time Taken: 450
+Size: 75
+Timestamp: Wed Apr 05 13:21:00 IST 2017
+TestStep: Token_validation - Token_validation
+
+----------------- Messages ------------------------------
+[Contains] Missing token [400] in Response
+
+----------------- Properties ------------------------------
+HTTP Version: HTTP/1.1
+Endpoint: https://consul.gl-poc.com
+Method: POST
+StatusCode: 200
+URL: https://consul.gl-poc.com/iam/v1/tokens?action=validate
+
+---------------- Request ---------------------------
+tokenId: [%$&%&*^*(&)]
+Connection: [Keep-Alive]
+User-Agent: [Apache-HttpClient/4.1.1 (java 1.5)]
+Host: [consul.gl-poc.com]
+Accept-Encoding: [gzip,deflate]
+Content-Length: [0]
+Content-Type: [application/json]
+
+POST https://consul.gl-poc.com/iam/v1/tokens?action=validate HTTP/1.1
+Accept-Encoding: gzip,deflate
+Content-Type: application/json
+tokenId: %$&%&*^*(&)
+Content-Length: 0
+Host: consul.gl-poc.com
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+
+---------------- Response --------------------------
+Server: [nginx/1.10.1]
+Access-Control-Allow-Origin: [*]
+Connection: [keep-alive]
+#status#: [HTTP/1.1 200 ]
+Content-Length: [75]
+Date: [Wed, 05 Apr 2017 07:51:00 GMT]
+Content-Type: [application/json]
+
+{"errors":null,"status":200,"data":{"valid":false,"uid":null,"realm":null}}
+
+java.lang.Exception: Contains in [Token_validation - Token_validation] failed;
+[Missing token [400] in Response]
+Status: FAILED
+Time Taken: 450
+Size: 75
+Timestamp: Wed Apr 05 13:21:00 IST 2017
+TestStep: Token_validation - Token_validation
+
+----------------- Messages ------------------------------
+[Contains] Missing token [400] in Response
+
+----------------- Properties ------------------------------
+HTTP Version: HTTP/1.1
+Endpoint: https://consul.gl-poc.com
+Method: POST
+StatusCode: 200
+URL: https://consul.gl-poc.com/iam/v1/tokens?action=validate
+
+---------------- Request ---------------------------
+tokenId: [%$&%&*^*(&)]
+Connection: [Keep-Alive]
+User-Agent: [Apache-HttpClient/4.1.1 (java 1.5)]
+Host: [consul.gl-poc.com]
+Accept-Encoding: [gzip,deflate]
+Content-Length: [0]
+Content-Type: [application/json]
+
+POST https://consul.gl-poc.com/iam/v1/tokens?action=validate HTTP/1.1
+Accept-Encoding: gzip,deflate
+Content-Type: application/json
+tokenId: %$&%&*^*(&)
+Content-Length: 0
+Host: consul.gl-poc.com
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
+
+---------------- Response --------------------------
+Server: [nginx/1.10.1]
+Access-Control-Allow-Origin: [*]
+Connection: [keep-alive]
+#status#: [HTTP/1.1 200 ]
+Content-Length: [75]
+Date: [Wed, 05 Apr 2017 07:51:00 GMT]
+Content-Type: [application/json]
+
+{"errors":null,"status":200,"data":{"valid":false,"uid":null,"realm":null}}
+
+	at com.eviware.soapui.tools.SoapUITestCaseRunner.throwFailureException(SoapUITestCaseRunner.java:512)
+	at com.eviware.soapui.tools.SoapUITestCaseRunner.runRunner(SoapUITestCaseRunner.java:428)
+	at com.eviware.soapui.tools.AbstractSoapUIRunner.run(AbstractSoapUIRunner.java:202)
+	at com.eviware.soapui.tools.AbstractSoapUIRunner.run(AbstractSoapUIRunner.java:137)
+	at com.eviware.soapui.tools.AbstractSoapUIRunner.runFromCommandLine(AbstractSoapUIRunner.java:112)
+	at com.eviware.soapui.tools.SoapUITestCaseRunner.main(SoapUITestCaseRunner.java:118)
